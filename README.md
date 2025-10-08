@@ -1,4 +1,4 @@
-# SU (Strojové Učení) - Cvičení 2: Explorative Data Analysis
+# SU (Strojové Učení) - Cvičení 2: Exploratory Data Analysis
 
 Tento repozitář obsahuje řešení 2. cvičení z předmětu Strojové učení.
 
