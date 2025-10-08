@@ -1,4 +1,9 @@
-# UFC Fighters EDA
+# SU (Strojové Učení) - Cvičení 2: Explorative Data Analysis
+
+Tento repozitář obsahuje řešení 2. cvičení z předmětu Strojové učení.
+
+https://homel.vsb.cz/~pla06/subject_ml.html - Exercise 2
+
 
 Tento projekt obsahuje Explorativní Datovou Analýzu (EDA) datasetu `Fighters Stats.csv`, který pokrývá širokou škálu statistik zápasníků UFC. Výsledky analýzy jsou zdokumentovány v notebooku `eda.ipynb`.
 
